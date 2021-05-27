@@ -6,7 +6,7 @@
 MIP39c2-SP#: 13
 Author(s): Niklas Kunkel
 Contributors:
-Tags:
+Tags: core-unit, cu-orc-001, active
 Status: RFC
 Date Applied: 2021-05-12
 Date Ratified:
